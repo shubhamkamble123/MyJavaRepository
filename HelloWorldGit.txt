@@ -2,9 +2,9 @@ class HelloWorld{
 
 
 void displayDate(){
-sysout("Display todays date");
+		System.out.println("Display todays date");
 
-}
+			}
 public static void main(String[] args){
 
 		System.out.println("Hello World  ....Welcome to git")
